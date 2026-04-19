@@ -87,4 +87,4 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Goutham A. S.** *IIT Jodhpur | Bash/CLI Developer Intern @ AfterQuery*
+**Rahul Ahuja** *IIT Jodhpur*
