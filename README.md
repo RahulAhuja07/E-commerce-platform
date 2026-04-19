@@ -35,7 +35,7 @@ This repository is structured as a **monorepo** for easier management of the ent
 
 ### 1. Clone the Project
 ```bash
-git clone [https://github.com/Goutham-IITJ/E-commerce-platform.git](https://github.com/Goutham-IITJ/E-commerce-platform.git)
+git clone [https://github.com/RahulAhuja07/E-commerce-platform.git](https://github.com/RahulAhuja07/E-commerce-platform.git)
 cd E-commerce-platform
 
 ```
